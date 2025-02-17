@@ -1,4 +1,5 @@
 ![This is the alt text for the header image](https://github.com/gemaskus/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![This is the alt text for the header image](https://github.com/gemaskus/learn-cicd-starter/actions/workflows/cd.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
